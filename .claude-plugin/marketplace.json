@@ -1,0 +1,11 @@
+{
+  "name": "claudetheme",
+  "owner": { "name": "Silence0516" },
+  "plugins": [
+    {
+      "name": "cyberpunk-neon",
+      "source": "./cyberpunk-neon",
+      "description": "赛博朋克霓虹主题：霓虹配色、动态网格与绿色代码雨背景、打字掉落字符、诗词鼓励语特效"
+    }
+  ]
+}

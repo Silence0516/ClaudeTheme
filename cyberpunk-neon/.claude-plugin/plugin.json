@@ -1,0 +1,10 @@
+{
+  "name": "cyberpunk-neon",
+  "version": "0.2.0",
+  "description": "赛博朋克霓虹主题：深紫黑底、青色与洋红霓虹、动态网格地平线、绿色代码雨，打字时输入框上方落下绿色字符",
+  "author": { "name": "Silence0516" },
+  "homepage": "https://github.com/Silence0516/ClaudeTheme",
+  "repository": "https://github.com/Silence0516/ClaudeTheme",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "calm-green",
+  "version": "2.0.0",
+  "description": "护眼绿主题：墨绿底配低饱和柔绿，星空下的夜间森林背景，打字时输入框上方落下绿色字符，附诗词鼓励语",
+  "author": {
+    "name": "Silence0516"
+  },
+  "homepage": "https://github.com/Silence0516/ClaudeTheme",
+  "repository": "https://github.com/Silence0516/ClaudeTheme",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
